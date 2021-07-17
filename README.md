@@ -19,3 +19,5 @@ texts = ['Subscribe To DoT']
 
  And Also Dont Forget To Subscribe :p
  https://youtube.com/channel/UCtFdGAi39FCqgN8r4w_dXLg
+
+for Bs Version 1.4.xx
